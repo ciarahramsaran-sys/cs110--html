@@ -74,11 +74,12 @@
 
     <img
         src="https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging/1-5t-mri-scanner/magnetom-aera"Illustration placeholder representing an MRI machine"
+        alt="1.5T Seaman's MRI Machine"
         width="600"
     >
 
     <p>
-        Above is a 2 Tesla Seimans MRI Machine. There are 2 main magnent types in scanners 1.5T being low resonance and 3T is used for higher contrast of tissues. An MRI machine usually has a large, circular opening
+        Above is a 1.5 Tesla Seimans MRI Machine. There are 2 main magnent types in scanners 1.5T being low resonance and 3T is used for higher contrast of tissues. An MRI machine usually has a large, circular opening
         where the patient lies on a movable table..
     </p>
 
@@ -88,13 +89,6 @@
         I am currently a student in the Radiologic Technology major and my concentration is MRI. Every Monday, Wednesday, and Friday I go to UCCON Hospital and work with MRI Techs as I prepare for my MRI boards. I get to screen patients, set then up for their scan, and scan different parts of anatomy. It is very eye opening seeing how the techs deal with patients that may have claustrophobia or may be emootional due to being scared for their diagnosis. As a tech it is important to keep calm and do what is best for you and your patient.
     </p>
 
-    <ul>
-        <li>Prepare patients for MRI examinations.</li>
-        <li>Screen for metal objects and MRI safety risks.</li>
-        <li>Position patients for the scan.</li>
-        <li>Operate MRI equipment and monitor image quality.</li>
-        <li>Help patients feel comfortable during examinations.</li>
-    </ul>
 
     <h2>How to Become an MRI Technologist</h2>
 
@@ -120,19 +114,19 @@
         <tr>
             <td>MRI</td>
             <td>Magnetic Resonance Imaging</td>
-            <td>Creates detailed pictures inside the body.</td>
+            <td>Creates detailed pictures of your organs and bones.</td>
         </tr>
 
         <tr>
-            <td>Magnetic Field</td>
-            <td>A strong magnetic field is used.</td>
-            <td>Requires careful screening for safety.</td>
+            <td>MRI COIL</td>
+            <td>They are different pieces of equipment placed on the patient during their scan.</td>
+            <td>They serve as "cameras" to ensure there is enough contrast between differnt pieces of anatomy.</td>
         </tr>
 
         <tr>
-            <td>Radio Waves</td>
-            <td>Help produce signals used to form images.</td>
-            <td>Allow detailed images of body tissues.</td>
+            <td>MRI Safe objects</td>
+            <td>There are certain items such as wheel chairs,stechoscopes, etc that are not normally MRI safe due to having metal. So MRI have specific ones made to be able to go near the machine</td>
+            <td>The MRI Machine is always on and uses a <strong>Magnet</strong> anything with metal will get sucked into the magnent ruining the machine and possibly causing a very dangerous situation.. </td>
         </tr>
 
         <tr>
@@ -142,17 +136,14 @@
         </tr>
     </table>
 
-    <h2>My Interest in MRI Technology</h2>
+    <h2>Key Take Aways if you are ever an MRI Patient</h2>
 
-    <p>
-        I am interested in becoming an MRI technologist because
-        I want to learn more about medical imaging and how it
-        helps doctors diagnose medical conditions. I think it
-        would be rewarding to work with advanced technology
-        while helping patients. My goal is to complete college,
-        pass my MRI certification exam, and build a successful
-        career in medical imaging.
-    </p>
+    <ul>
+        </li>It can be hard to stay relaxed in such a small space but know that the techs are watching you the entire time.</li>
+       </li> In addition the table may not be the most comfortable but try your best not to move as it will only make your scans harder.</li>
+       </li> remember the magnent is always on so DO NOT enter zone 4 without MRI personall with you</li>
+       
+    </ul>
 
     <p>
         <em>MRI technology combines science, technology, and
