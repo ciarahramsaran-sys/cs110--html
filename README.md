@@ -1,5 +1,3 @@
-# cs110--html
-
 <!DOCTYPE html>
 <html>
 <head>
