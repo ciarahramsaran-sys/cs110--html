@@ -82,26 +82,15 @@
         where the patient lies on a movable table..
     </p>
 
-    <p>
-        Learn more about MRI from
-        <a href="https://www.radiologyinfo.org/en/info/mri">
-            RadiologyInfo.org
-        </a>.
-    </p>
-
-    <h2>What Does an MRI Technologist Do?</h2>
+    <h2>Life as an MRI Student</h2>
 
     <p>
-        An MRI technologist prepares patients for scans,
-        explains the procedure, positions patients correctly,
-        operates the scanner, and follows safety procedures.
-        They also work with other healthcare professionals
-        to help produce clear and useful medical images.
+        I am currently a student in the Radiologic Technology major and my concentration is MRI. Every Monday, Wednesday, and Friday I go to UCCON Hospital and work with MRI Techs as I prepare for my MRI boards. I get to screen patients, set then up for their scan, and scan different parts of anatomy. It is very eye opening seeing how the techs deal with patients that may have claustrophobia or may be emootional due to being scared for their diagnosis. As a tech it is important to keep calm and do what is best for you and your patient.
     </p>
 
     <ul>
         <li>Prepare patients for MRI examinations.</li>
-        <li>Check for metal objects and MRI safety risks.</li>
+        <li>Screen for metal objects and MRI safety risks.</li>
         <li>Position patients for the scan.</li>
         <li>Operate MRI equipment and monitor image quality.</li>
         <li>Help patients feel comfortable during examinations.</li>
@@ -112,7 +101,7 @@
     <ol>
         <li>Complete the required college and imaging coursework.</li>
         <li>Complete the appropriate clinical training.</li>
-        <li>Meet the eligibility requirements for MRI certification.</li>
+        <li>Meet the requirements for MRI certification.</li>
         <li>Prepare for and pass the relevant certification exam.</li>
         <li>Continue learning and gaining experience in the field.</li>
     </ol>
