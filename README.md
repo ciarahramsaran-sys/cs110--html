@@ -73,9 +73,9 @@
     <h2>What Does an MRI Machine Look Like?</h2>
 
     <img
-        src="https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging/1-5t-mri-scanner/magnetom-aera"
-        alt="1.5T Seaman's MRI Machine"
-        width="600"
+  src="https://www.siemens-healthineers.com/_Resources/Persistent/"
+  alt="Siemens MAGNETOM Sempra 1.5T MRI machine"
+  width="500"
     >
 
     <p>
