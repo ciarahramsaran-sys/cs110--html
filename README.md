@@ -73,7 +73,7 @@
     <h2>What Does an MRI Machine Look Like?</h2>
 
     <img
-        src="https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging/1-5t-mri-scanner/magnetom-aera"Illustration placeholder representing an MRI machine"
+        src="https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging/1-5t-mri-scanner/magnetom-aera"
         alt="1.5T Seaman's MRI Machine"
         width="600"
     >
@@ -139,9 +139,9 @@
     <h2>Key Take Aways if you are ever an MRI Patient</h2>
 
     <ul>
-        </li>It can be hard to stay relaxed in such a small space but know that the techs are watching you the entire time.</li>
-       </li> In addition the table may not be the most comfortable but try your best not to move as it will only make your scans harder.</li>
-       </li> remember the magnent is always on so DO NOT enter zone 4 without MRI personall with you</li>
+        <li>It can be hard to stay relaxed in such a small space but know that the techs are watching you the entire time.</li>
+       <li> In addition the table may not be the most comfortable but try your best not to move as it will only make your scans harder.</li>
+       <li> remember the magnent is always on so DO NOT enter zone 4 without MRI personall with you.</li>
        
     </ul>
 
