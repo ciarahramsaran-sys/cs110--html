@@ -61,30 +61,25 @@
         MRI stands for Magnetic Resonance Imaging. It is a type
         of medical imaging that uses a strong magnetic field and
         radio waves to create detailed pictures of the inside
-        of the body. MRI scans help doctors examine organs,
-        muscles, the brain, and other body structures.
+        of the body. MRI provides great tissue contrast that is important for doctors to visualize different pathologies in organs, bones, muscles, and ligaments. 
     </p>
 
     <p>
-        One thing I find interesting about MRI is that it can
+        One thing I find interesting about MRI is that unlike other modaliteies such as X-ray,Cat scan, and mammography  it can
         produce detailed images without using <strong>ionizing
-        radiation</strong>. MRI technology is an important part
-        of modern healthcare.
+        radiation</strong>. Which makes it safer for patients, but also calls for a very intense screening process.
     </p>
 
     <h2>What Does an MRI Machine Look Like?</h2>
 
     <img
-        src="https://placehold.co/600x350/eaf4ff/245b85?text=MRI+Machine"
-        alt="Illustration placeholder representing an MRI machine"
+        src="https://www.siemens-healthineers.com/en-us/magnetic-resonance-imaging/1-5t-mri-scanner/magnetom-aera"Illustration placeholder representing an MRI machine"
         width="600"
     >
 
     <p>
-        An MRI machine usually has a large, circular opening
-        where the patient lies on a movable table. During the
-        scan, the machine captures images that help medical
-        professionals evaluate different parts of the body.
+        Above is a 2 Tesla Seimans MRI Machine. There are 2 main magnent types in scanners 1.5T being low resonance and 3T is used for higher contrast of tissues. An MRI machine usually has a large, circular opening
+        where the patient lies on a movable table..
     </p>
 
     <p>
