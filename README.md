@@ -72,7 +72,7 @@
 
     <h2>What Does an MRI Machine Look Like?</h2>
   <img
-    src="https://commons.wikimedia.org/wiki/Special:FilePath/Clinical_1.5T_MRI_system.jpg"
+    src="(https://marketing.webassets.siemens-healthineers.com/1800000007089100/dbb4733f7b7a/v/1fdef9ba5ca9/mri_magnetom-sempra_gallery-V2-1-0351732110_1800000007089100.jpg)"
     alt="Siemens Healthineers 1.5 Tesla MRI scanner"
     width="500"
       >
