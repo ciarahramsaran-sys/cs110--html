@@ -71,12 +71,11 @@
     </p>
 
     <h2>What Does an MRI Machine Look Like?</h2>
-
-    <img
-  src="https://www.siemens-healthineers.com/_Resources/Persistent/"
-  alt="Siemens MAGNETOM Sempra 1.5T MRI machine"
-  width="500"
-    >
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Clinical_1.5T_MRI_system.jpg"
+    alt="Siemens Healthineers 1.5 Tesla MRI scanner"
+    width="500"
+      >
 
     <p>
         Above is a 1.5 Tesla Seimans MRI Machine. There are 2 main magnent types in scanners 1.5T being low resonance and 3T is used for higher contrast of tissues. An MRI machine usually has a large, circular opening
