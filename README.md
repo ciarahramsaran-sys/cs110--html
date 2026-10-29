@@ -1,1 +1,181 @@
 # cs110--html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All About MRI Technology</title>
+
+    <style>
+        body {
+            background-color: #eaf4ff;
+            font-family: Arial, sans-serif;
+            color: #243447;
+            margin: 30px;
+        }
+
+        h1 {
+            background-color: #b8d8f0;
+            color: #163c5a;
+            padding: 25px;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #245b85;
+        }
+
+        table {
+            background-color: white;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #789;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #b8d8f0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        a {
+            color: #1769aa;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>All About MRI Technology</h1>
+
+    <h2>What Is an MRI?</h2>
+
+    <p>
+        MRI stands for Magnetic Resonance Imaging. It is a type
+        of medical imaging that uses a strong magnetic field and
+        radio waves to create detailed pictures of the inside
+        of the body. MRI scans help doctors examine organs,
+        muscles, the brain, and other body structures.
+    </p>
+
+    <p>
+        One thing I find interesting about MRI is that it can
+        produce detailed images without using <strong>ionizing
+        radiation</strong>. MRI technology is an important part
+        of modern healthcare.
+    </p>
+
+    <h2>What Does an MRI Machine Look Like?</h2>
+
+    <img
+        src="https://placehold.co/600x350/eaf4ff/245b85?text=MRI+Machine"
+        alt="Illustration placeholder representing an MRI machine"
+        width="600"
+    >
+
+    <p>
+        An MRI machine usually has a large, circular opening
+        where the patient lies on a movable table. During the
+        scan, the machine captures images that help medical
+        professionals evaluate different parts of the body.
+    </p>
+
+    <p>
+        Learn more about MRI from
+        <a href="https://www.radiologyinfo.org/en/info/mri">
+            RadiologyInfo.org
+        </a>.
+    </p>
+
+    <h2>What Does an MRI Technologist Do?</h2>
+
+    <p>
+        An MRI technologist prepares patients for scans,
+        explains the procedure, positions patients correctly,
+        operates the scanner, and follows safety procedures.
+        They also work with other healthcare professionals
+        to help produce clear and useful medical images.
+    </p>
+
+    <ul>
+        <li>Prepare patients for MRI examinations.</li>
+        <li>Check for metal objects and MRI safety risks.</li>
+        <li>Position patients for the scan.</li>
+        <li>Operate MRI equipment and monitor image quality.</li>
+        <li>Help patients feel comfortable during examinations.</li>
+    </ul>
+
+    <h2>How to Become an MRI Technologist</h2>
+
+    <ol>
+        <li>Complete the required college and imaging coursework.</li>
+        <li>Complete the appropriate clinical training.</li>
+        <li>Meet the eligibility requirements for MRI certification.</li>
+        <li>Prepare for and pass the relevant certification exam.</li>
+        <li>Continue learning and gaining experience in the field.</li>
+    </ol>
+
+    <h2>Important MRI Information</h2>
+
+    <table>
+        <caption>Basic Facts About MRI</caption>
+
+        <tr>
+            <th>Topic</th>
+            <th>What It Means</th>
+            <th>Why It Matters</th>
+        </tr>
+
+        <tr>
+            <td>MRI</td>
+            <td>Magnetic Resonance Imaging</td>
+            <td>Creates detailed pictures inside the body.</td>
+        </tr>
+
+        <tr>
+            <td>Magnetic Field</td>
+            <td>A strong magnetic field is used.</td>
+            <td>Requires careful screening for safety.</td>
+        </tr>
+
+        <tr>
+            <td>Radio Waves</td>
+            <td>Help produce signals used to form images.</td>
+            <td>Allow detailed images of body tissues.</td>
+        </tr>
+
+        <tr>
+            <td>MRI Technologist</td>
+            <td>Operates the scanner and cares for patients.</td>
+            <td>Helps obtain quality diagnostic images.</td>
+        </tr>
+    </table>
+
+    <h2>My Interest in MRI Technology</h2>
+
+    <p>
+        I am interested in becoming an MRI technologist because
+        I want to learn more about medical imaging and how it
+        helps doctors diagnose medical conditions. I think it
+        would be rewarding to work with advanced technology
+        while helping patients. My goal is to complete college,
+        pass my MRI certification exam, and build a successful
+        career in medical imaging.
+    </p>
+
+    <p>
+        <em>MRI technology combines science, technology, and
+        patient care to make a difference in healthcare.</em>
+    </p>
+
+</body>
+</html>
